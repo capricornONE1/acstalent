@@ -1,0 +1,38 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - KIDS MAIN DIRECTORY</POSTER>
+********************************************************************************************************************************
+
+
+<dir>
+<title>[COLORblue]TV Shows[/COLOR]</title>
+<link>http://amadorgold.net/kodi/xml/tv_shows.xml</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/tvshows.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORblue]Shows for Kids[/COLOR]</title>
+  <tmdb>genre/shows/10762</tmdb>
+</dir>
+
+<dir>
+  <title>[COLORblue]Cartoon Shows[/COLOR]</title>
+  <tmdb>genre/shows/60601</tmdb>
+</dir>
+
+<dir>
+    <title>[COLORblue]Kids Boxsets[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/kids_boxset.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icons/kids.png</thumbnail>
+ </dir>
+ 
+<dir>
+    <title>[COLORblue]Networks[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/networks.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+  </dir>
+
+<dir>
+    <title>[COLORblue]Documentaries[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/documentary.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icons/documentary.png</thumbnail>
+ </dir>

@@ -1,0 +1,49 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - Documentary Main</POSTER>
+********************************************************************************************************************************
+<dir>
+<title>      .      .      .      .[COLORblue]Documentaries[/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<plugin>
+<title>FilmRise Documentaries</title>
+<link>plugin://plugin.video.youtube/channel/UCcsja3nlq2R1belenHR0j0Q/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/filmrise.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/filmrisefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>World of Discovery</title>
+<link>plugin://plugin.video.youtube/playlist/PL_Y6Qui9KStOYM_PXNfJt6zLRHmnoAVpx/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/world_discovery.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/world_discoveryfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Timeline - World History</title>
+<link>plugin://plugin.video.youtube/channel/UC88lvyJe7aHZmcvzvubDFRg/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/world_history.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/world_historyfanart.jpg</fanart>
+</plugin>
+
+
+<dir>
+    <title>[COLORblue]Networks[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/networks.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+  </dir>
+
+   
+<dir>
+    <title>[COLORblue]Documentaries[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/documentary.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+ </dir>
+ 
+ <dir>
+<title>[COLORblue]RETURN TO MAIN LISTING[/COLOR]</title>
+<link>http://amadorgold.net/kodi/xml/main.xml</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+</dir>

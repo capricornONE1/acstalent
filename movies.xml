@@ -1,0 +1,56 @@
+
+<dir>
+  <title>***[B][COLORlightblue]Our Movie Catagories[/COLOR][/B]***</title>
+<link></link>
+</dir>
+
+<dir>
+  <title>[COLORblue]Popular Movies[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+ </dir>
+
+<dir>
+  <title>[COLORblue]Movie Watchlist[/COLOR]</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+<name>[COLORblue]Movies By Genre[/COLOR]</name>
+<link>http://amadorgold.net/kodi/xml/genre_movies.xml</link>
+</dir>
+
+<dir>
+  <title>[COLORblue]TMDB Popular[/COLOR]</title>
+  <tmdb>movies/popular</tmdb>
+   
+</dir>
+
+<dir>
+  <title>[COLORblue]TMDB Now Playing[/COLOR]</title>
+   <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>[COLORblue]TMDB Top Rated[/COLOR]</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>[COLORblue]TMDB Action Movies[/COLOR]</title>
+  <tmdb>movies/genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>[COLORaqua]TMDB Star Wars Collection[/COLOR]</title>
+  <tmdb>movies/collection/10</tmdb>
+</dir>
+
+<dir>
+	<title>[COLORblue]Best Picture Winners[/COLOR]</title>
+	<tmdb>movies/list/28</tmdb>
+</dir>
+
+<dir>
+  <title>[COLORblue]Westerns[/COLOR]</title>
+  <tmdb>movies/list/98836</tmdb>
+</dir>

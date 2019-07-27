@@ -1,0 +1,71 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - KARAOKE DIRECTORY</POSTER>
+********************************************************************************************************************************
+
+
+<item>
+<title>George Jones - He Stopped Loving Her Today</title>
+<link>https://www.youtube.com/watch?v=QVfeVtSQrFQ</link>
+<thumbnail>https://s3.amazonaws.com/system.ravinia.org/shows/1365/5569_Show_Page.jpg</thumbnail>
+</item>
+
+<item>
+    <title>[COLORblue]Frank Sinatra - My Way[/COLOR]</title>
+    <link>https://www.youtube.com/watch?v=gmgnuWAqtAc</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+  </item>
+
+ 
+<item>
+<title>Aaron Tippen - Stars and Stripes</title>
+<link>https://www.youtube.com/watch?v=T9EkCl4JrqI</link>
+<thumbnail>https://i.ytimg.com/vi/T9EkCl4JrqI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-bunzxrIColOa-Y3OHVEoAywfqw</thumbnail>
+</item>
+
+<item>
+<title>Ricky Van Shelton - I Leave This World Loving You</title>
+<link>https://www.youtube.com/watch?v=wF6haUPyLyE</link>
+<thumbnail>https://s3.amazonaws.com/system.ravinia.org/shows/1365/5569_Show_Page.jpg</thumbnail>
+</item>
+
+<plugin>
+<title>Christmas Karaoke</title>
+<link>plugin://plugin.video.youtube/playlist/PLF22689E438E0C08A/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Karaoke Classics</title>
+<link>plugin://plugin.video.youtube/playlist/PL3B4E4AD15C19D749/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Karaoke Crooners</title>
+<link>plugin://plugin.video.youtube/playlist/PL3B4E4AD15C19D749/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Pop Rock Karaoke</title>
+<link>plugin://plugin.video.youtube/playlist/PL8D4Iby0Bmm8QUI5h6VTEZwv0DgcQmsDx/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Ballads and Love Songs</title>
+<link>plugin://plugin.video.youtube/playlist/PL8D4Iby0Bmm-nKJtBcg_1BHmukPlaniFk/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+
+<dir>
+    <title>[COLORblue]Return to Directory[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/main.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/icon.png</thumbnail>
+ </dir>

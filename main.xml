@@ -1,0 +1,104 @@
+<xml>
+********************************************************************************************************************************
+<POSTER>Capricorn ONE - MAIN DIRECTORY</POSTER>
+********************************************************************************************************************************
+<dir>
+<title>[COLORblue]Movies[/COLOR]</title>
+<link>file://movies.xml</link>
+<desc>Quality Movies at it's Best!</desc>
+<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/movies.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/moviesfanhart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORblue]TV Shows[/COLOR]</title>
+<link>file://tvshows_main.xml</link>
+<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/tvshows.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/moviesfanhart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>[COLORblue]News and Weather[/COLOR]</title>
+    <link>file://news.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/news.png</thumbnail>
+	<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/moviesfanhart.jpg</fanart>
+</dir> 
+
+<dir>
+    <title>[COLORblue]Documentaries[/COLOR]</title>
+    <link>file://documentary.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/documentary.png</thumbnail>
+	<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/moviesfanhart.jpg</fanart>
+ </dir>
+ 
+ <dir>
+    <title>[COLORblue]Sports Hub[/COLOR]</title>
+    <link>file://sports_main.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/sports.png</thumbnail>
+	<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/sportsfanhart.jpg</fanart>
+</dir> 
+ 
+ <dir>
+<title>[COLORblue]Kids Hub[/COLOR]</title>
+<link>file://kids_main.xml</link>
+<thumbnail>file://icons/kids.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/moviesfanhart.jpg</fanart>
+</dir>
+
+ <dir>
+      <title>[COLORblue]Paranormal Collection[/COLOR]</title>
+      <tmdb>list/99479</tmdb>
+    </dir>
+
+<dir>
+<title>[COLORblue]True Crime[/COLOR]</title>
+<link>file://truecrime.xml</link>
+<thumbnail>file://icons/crime.png</thumbnail>
+<fanart>file://icons/moviesfanhart.jpg</fanart>
+</dir>
+
+ <dir>
+<title>[COLORblue]Westerns[/COLOR]</title>
+<link>file://westerns_main.xml</link>
+<thumbnail>file://icons/westerns.png</thumbnail>
+<fanart>file://icons/moviesfanhart.jpg</fanart>
+</dir>
+
+ <dir>
+<title>[COLORblue]Concerts[/COLOR]</title>
+<link>http://amadorgold.net/kodi/capricornONE/xml/concerts.xml</link>
+<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/concerts.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/concerts.jpg</fanart>
+</dir>
+
+ <dir>
+<title>[COLORblue]Karaoke[/COLOR]</title>
+<link>file://karaoke.xml</link>
+<thumbnail>file://icons/concerts.png</thumbnail>
+<fanart>file://icons/concertfanhart.jpg</fanart>
+</dir>
+
+ <dir>
+<title>[COLORblue]Comedy and More[/COLOR]</title>
+<link>http://amadorgold.net/kodi/capricornONE/xml/comedy_main.xml</link>
+<thumbnail>http://amadorgold.net/kodi/capricornONE/xml/icons/comedy.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/capricornONE/xml/icons/comedy.jpg</fanart>
+</dir>
+
+<plugin>
+    <name>30702</name>
+    <link>plugin://plugin.video.capricorn1/?action=search</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+ <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+  
+  </xml>

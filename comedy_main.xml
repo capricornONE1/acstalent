@@ -1,0 +1,84 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - COMEDY DIRECTORY</POSTER>
+********************************************************************************************************************************
+
+
+
+
+<plugin>
+<title>Mork and Mindy</title>
+<link>plugin://plugin.video.youtube/playlist/PLcyLrZ0S6fNuwxZi5Lu8Da8JDWJwx2DL0/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/jim_jefferies.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<item>
+<title>Daniel Tosh - Stand Up Special</title>
+<link>https://www.youtube.com/watch?v=mQEwaBlj2Lk</link>
+<thumbnail>https://amadorgold.net/kodi/xml/icons/daniel_tosh.png</thumbnail>
+</item>
+
+<item>
+    <title>[COLORblue]Bill Burr - Why Do I Do This[/COLOR]</title>
+    <link>https://www.youtube.com/watch?v=5nxD4PY39xw</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icons/bill_burr.png</thumbnail>
+  </item>
+
+<plugin>
+<title>Jim Jefferies Show</title>
+<link>plugin://plugin.video.youtube/playlist/PLD7nPL1U-R5q27n0ECbBQFQGcTDs205-C/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/jim_jefferies.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+<title>Comedy Central Stand-Up</title>
+<link>plugin://plugin.video.youtube/channel/UCtw7q4SyOeoCwM1i_3x8lDg/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/stand_up.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<dir>
+  <title>Comedy Central</title>
+  <tmdb>network/shows/47</tmdb>
+  <thumbnail>http://amadorgold.net/kodi/xml/icons/comedy_central.png</thumbnail>
+  <fantart></fantart>
+</dir>
+
+<plugin>
+<title>The Laugh Factory</title>
+<link>plugin://plugin.video.youtube/channel/UCxyCzPY2pjAjrxoSYclpuLg/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/laugh_factory.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/newsfanart.jpg</fanart>
+</plugin>
+
+<item>
+<title>Jimmy Carr - Making People Laugh</title>
+<link>https://www.youtube.com/watch?v=DQC0Fg6vzA8</link>
+<thumbnail>https://amadorgold.net/kodi/xml/icons/jim_carr.png</thumbnail>
+</item>
+
+<item>
+<title>Rich Hall - Hell No I Ain't Happy</title>
+<link>https://www.youtube.com/watch?v=Okyr8XzhjzE</link>
+<thumbnail>https://amadorgold.net/kodi/xml/icons/rich_hall.png</thumbnail>
+</item>
+
+<item>
+<title>Alonzo Bodden - Historically Incorrect</title>
+<link>https://www.youtube.com/watch?v=KaVD4ZVr_a4</link>
+<thumbnail>https://amadorgold.net/kodi/xml/icons/bodden.png</thumbnail>
+</item>
+
+<item>
+<title>Jimmy Carr - Making People Laugh</title>
+<link>https://www.youtube.com/watch?v=DQC0Fg6vzA8</link>
+<thumbnail>https://amadorgold.net/kodi/xml/icons/jim_carr.png</thumbnail>
+</item>
+
+<dir>
+    <title>[COLORblue]Return to Directory[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/main.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/icon.png</thumbnail>
+ </dir>

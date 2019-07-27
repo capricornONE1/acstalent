@@ -1,0 +1,28 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - TV SHOWS</POSTER>
+********************************************************************************************************************************
+
+
+<dir>
+<title>[COLORblue]TV Shows[/COLOR]</title>
+<link>http://amadorgold.net/kodi/xml/tv_shows.xml</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/tvshows.png</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]Tv Genres[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/genre_tv.xml</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/tvshows.png</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]Networks[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/networks.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+  </dir>
+
+<dir>
+    <title>[COLORblue]Documentaries[/COLOR]</title>
+    <link>http://amadorgold.net/kodi/xml/documentary.xml</link>
+	<thumbnail>http://amadorgold.net/kodi/xml/icons/documentary.png</thumbnail>
+ </dir>

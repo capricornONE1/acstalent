@@ -1,0 +1,71 @@
+********************************************************************************************************************************
+<POSTER>Capricorn - Documentary Main</POSTER>
+********************************************************************************************************************************
+<dir>
+<title>      .      .      .      .[COLORblue]Documentaries[/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<plugin>
+<title>[COLORblue]FilmRise Documentaries[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UCcsja3nlq2R1belenHR0j0Q/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/filmrise.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]Murder Calls[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLem-0bv5a0YO1iRKT3eDoM4aZx9bgLjTH/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/world_discovery.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]Forensic Files[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UCPar4XXTkknIRtj-JSjiddw/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]Crime Vault[/COLOR]</title>
+<link>plugin://plugin.video.youtube/playlist/PLbzGV_tTTqyM25gVHORTg5keah0ezSUYN/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]Female Killers[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UC140PSrairHki1J_Prt2aCQ/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]True Crime Daily[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UC69uYUqvx-vw4luuX7aHNLQ/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]True Crime Daily[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UC69uYUqvx-vw4luuX7aHNLQ/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORblue]Fatal Vows[/COLOR]</title>
+<link>plugin://plugin.video.youtube/channel/UCZ-dSgmEAYBH7o40aP1ZZmg/</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icons/crime.png</thumbnail>
+<fanart>http://amadorgold.net/kodi/xml/icons/crimefanart.jpg</fanart>
+</plugin>
+
+<dir>
+<title>[COLORblue]RETURN TO MAIN LISTING[/COLOR]</title>
+<link>http://amadorgold.net/kodi/xml/main.xml</link>
+<thumbnail>http://amadorgold.net/kodi/xml/icon.png</thumbnail>
+</dir>
+
